@@ -1,1 +1,1 @@
-# RockPaperScissors-using-MediaPipe-Cv2
+# RockPaperScissors-using-MediaPipe
