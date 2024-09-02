@@ -33,6 +33,10 @@ To run this project, you will need Python installed on your system along with th
 
 - rps.txt: The dataset used for training the gesture recognition model, consisting of various hand positions labeled as rock, paper, or scissors.
 
+- prediction.txt: File used for the store the model prediction of our hand gesture.
+
+- paper.png, rock.png, scissors.png: photos used for displaying the gesture of the player and the computer
+
 ## How It Works
 1. Hand Detection: Using MediaPipe, the game detects the presence of a hand and identifies key landmarks.
 2. Gesture Recognition: The detected hand gesture is compared against a trained XGBoost model to classify it as rock, paper, or scissors.
