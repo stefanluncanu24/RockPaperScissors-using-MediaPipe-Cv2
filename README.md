@@ -3,11 +3,12 @@
 ## Overview
 OpenCV-MediaPipe-RPS is an interactive Rock-Paper-Scissors game that utilizes advanced hand tracking technology with OpenCV and MediaPipe to recognize hand gestures in real-time. This project leverages machine learning to interpret the player's hand gestures as rock, paper, or scissors, enabling a fun and engaging way to play the classic game against a computer.
 
-![image](https://github.com/user-attachments/assets/ef505285-7f85-4021-a3a7-296f22457613)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef505285-7f85-4021-a3a7-296f22457613" alt="Image 1" width="30%">
+  <img src="https://github.com/user-attachments/assets/c1a49b7e-d43e-4c01-975e-655b80b3edda" alt="Image 2" width="30%">
+  <img src="https://github.com/user-attachments/assets/ef0e9fa7-cc35-48ce-ab16-bbdc65d61556" alt="Image 3" width="30%">
+</p>
 
-![image](https://github.com/user-attachments/assets/c1a49b7e-d43e-4c01-975e-655b80b3edda)
-
-![image](https://github.com/user-attachments/assets/ef0e9fa7-cc35-48ce-ab16-bbdc65d61556)
 
 ## Features
 - Real-time hand gesture recognition.
